@@ -1,5 +1,5 @@
 site_name: UCSD ECE/MAE 148 - Introduction to Autonomous Vehicles
-site_url: https://example.com
+site_url: https://ucsd-ecemae-148.github.io/course-documentation
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 markdown_extensions:
