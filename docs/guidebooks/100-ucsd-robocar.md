@@ -73,7 +73,7 @@ So the idea is to develop a package that could in general be used on any car-lik
 For example, lets say another company developed their own similar sensor, actuator and nav packages but they have not researched into lane detection. Instead of using the entire UCSD Robocar framework, they could easily just deploy the lane detection package and have some interpreter in their framework read the messages from the lane detection package to suit their needs.
 
 Link to official GitLab repo (**ROS**): [ucsd_robocar_hub1](https://gitlab.com/ucsd_robocar/ucsd_robocar_hub1)  
-Link to official GitLab repo (**ROS2**): [https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2](https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2)
+Link to official GitLab repo (**ROS2**): [ucsd_robocar_hub2](https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2)
 
 !!! note
 
