@@ -1,4 +1,4 @@
-# Introduction
+# UCSD Robocar Framework
 
 The UCSD Robocar framework is primarily maintained and developed by Dominic Nightingale right here at UC San Diego.
 
