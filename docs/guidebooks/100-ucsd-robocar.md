@@ -76,6 +76,7 @@ Link to official GitLab repo (**ROS**): [ucsd_robocar_hub1](https://gitlab.com/u
 Link to official GitLab repo (**ROS2**): [https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2](https://gitlab.com/ucsd_robocar2/ucsd_robocar_hub2)
 
 !!! note
+
     Both `hub1` and `hub2` are **metapackages**. For specific details about any individual package, click on any of the packages in either hub to be taken to that packages' main repository.
 
 ## Packages
