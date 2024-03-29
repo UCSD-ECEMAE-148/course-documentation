@@ -1,0 +1,59 @@
+site_name: UCSD ECE/MAE 148 - Introduction to Autonomous Vehicles
+site_url: https://example.com
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+markdown_extensions:
+  - pymdownx.emoji
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.keys
+  
+extra_javascript:
+    - javascripts/katex.js
+    - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: teal
+      toggle: 
+        icon: material/brightness-4
+        name: Switch to dark mode
+    # Palette toggle for light mode
+    - scheme: default
+      toggle: 
+        icon: material/brightness-7
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.sections
+    - navigation.path
+    - content.code.copy
+    - content.code.select
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
